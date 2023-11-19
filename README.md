@@ -17,8 +17,3 @@ Semantic Segmentation is a computer vision task in which the goal is to categori
 ### Predictions
 ![results](https://github.com/sanjay-906/Lane-Line-Detection/assets/99668976/0f953c6f-df41-4693-b6b6-86b2a1d3b75e)
 
-### Results
-
-
-### Output-Gif
-
